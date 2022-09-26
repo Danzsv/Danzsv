@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **danzsv94@gmail.com**
 
-- ⚡ Fun fact :- Pets and Videogaames are the reasons to live.
+- ⚡ Fun fact :- Pets and Videogames are the reasons to live.
 
 - 🚀 I did the bootcamp of fullstack developer in HENRY, an intensive course of more than 700 hours where I learned various technologies such as:
 
