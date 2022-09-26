@@ -14,7 +14,7 @@
 
  🚀 I did the bootcamp of fullstack developer in HENRY, an intensive course of more than 700 hours where I learned various technologies such as:
 
-<div style="display:flex">
+<div style="display:inline-flex">
 <div>
 <ul>  
   <li>NodeJS</li>
