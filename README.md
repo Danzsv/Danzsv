@@ -16,6 +16,22 @@
 
 - 🚀 I did the bootcamp of fullstack developer in HENRY, an intensive course of more than 700 hours where I learned various technologies such as:
 
+<ul>
+  <li>Javascript (ES6)</li>
+  <li>ReactJS</li>
+  <li>React Native</li>
+  <li>Redux & Redux Toolkit</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>NodeJS</li>
+  <li>Express Web Server</li>
+  <li>API's RESTful</li>
+  <li>Git</li>
+  <li>PostgreSQL</li>
+  <li>Sequelize</li>
+  <li>MongoDB & Mongoose</li>
+</ul>
+
 <br>
 
 
