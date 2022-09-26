@@ -51,7 +51,6 @@
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
 <a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
 <a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/tailwind.svg" alt="tailwind"></a>
-<a margin="10" href="https://www.python.org" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"></a>
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
 <br />
 <br />
