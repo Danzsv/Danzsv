@@ -62,7 +62,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3 align='center'>Statistical Data :</h3>
 <p align="center"><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzsv&layout=compact&theme=dark&bg_color=0A0A0A" alt="juanalvarezLanguages"
     alt="adam-pw" 
