@@ -14,7 +14,8 @@
 
  🚀 I did the bootcamp of fullstack developer in HENRY, an intensive course of more than 700 hours where I learned various technologies such as:
 
-<div flex>
+<div>
+<div>
 <ul>  
   <li>NodeJS</li>
   <li>Express Web Server</li>
@@ -24,6 +25,9 @@
   <li>Sequelize</li>
   <li>MongoDB & Mongoose</li>
 </ul>
+ </div>
+
+<div>
 <ul>
 <li>Javascript (ES6)</li>
   <li>ReactJS</li>
@@ -32,6 +36,8 @@
   <li>HTML</li>
   <li>CSS</li>
  </ul>
+ </div>
+
 </div>
 <br>
 
