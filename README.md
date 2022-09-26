@@ -6,13 +6,13 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning in improve my skills to be a potential added value in any working group, learning and improving technologies such as TypeScript and implementing new methodologies to my existing projects
+ 🌱 I’m currently learning in improve my skills to be a potential added value in any working group, learning and improving technologies such as TypeScript and implementing new methodologies to my existing projects
 
-- 💡 I’m looking to collaborate on projects that have a high impact on people’s lives, that help me grow and learn and be an important element of it
+ 💡 I’m looking to collaborate on projects that have a high impact on people’s lives, that help me grow and learn and be an important element of it
 
-- ⚡ Fun fact :- Pets and Videogames are the reasons to live.
+ ⚡ Fun fact :- Pets and Videogames are the reasons to live.
 
-- 🚀 I did the bootcamp of fullstack developer in HENRY, an intensive course of more than 700 hours where I learned various technologies such as:
+ 🚀 I did the bootcamp of fullstack developer in HENRY, an intensive course of more than 700 hours where I learned various technologies such as:
 
 <ul>
   <li>Javascript (ES6)</li>
