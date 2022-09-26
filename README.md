@@ -10,8 +10,6 @@
 
 - 💡 I’m looking to collaborate on projects that have a high impact on people’s lives, that help me grow and learn and be an important element of it
 
-- 📫 How to reach me **danzsv94@gmail.com**
-
 - ⚡ Fun fact :- Pets and Videogames are the reasons to live.
 
 - 🚀 I did the bootcamp of fullstack developer in HENRY, an intensive course of more than 700 hours where I learned various technologies such as:
