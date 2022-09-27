@@ -6,9 +6,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
- 🌱 I’m currently learning in improve my skills to be a potential added value in any working group, learning and improving technologies such as TypeScript and implementing new methodologies to my existing projects
+ 🌱I’m learning React native and TypeScript and I’m open to learning any other technology.
 
- 💡 I’m looking to collaborate on projects that have a high impact on people’s lives, that help me grow and learn and be an important element of it
+ 💡 I enjoy being part of a teamwork because I can learn from my teammates and work together in order to achieve goals .
 
  ⚡ Fun fact :- Pets and Videogames are the reasons to live.
 
