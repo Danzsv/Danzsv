@@ -25,9 +25,6 @@
   <li>Sequelize</li>
   <li>MongoDB & Mongoose</li>
 </ul>
- </div>
-
-<div style="display: flex; flex-direction:row;">
 <ul >
 <li>Javascript (ES6)</li>
   <li>ReactJS</li>
@@ -36,6 +33,10 @@
   <li>HTML</li>
   <li>CSS</li>
  </ul>
+ </div>
+
+<div style="display: flex; flex-direction:row;">
+
  </div>
 
 </div>
