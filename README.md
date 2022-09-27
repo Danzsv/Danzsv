@@ -17,7 +17,7 @@
 <div style="display: flex; flex-direction:row;">
 <div style="display: flex; flex-direction:row;">
 <p align="center" width="100%">
-<ul>  
+
   <li>NodeJS</li>
   <li>Express Web Server</li>
   <li>API's RESTful</li>
@@ -25,16 +25,16 @@
   <li>PostgreSQL</li>
   <li>Sequelize</li>
   <li>MongoDB & Mongoose</li>
-</ul>
-<ul >
-<li>Javascript (ES6)</li>
+
+
+  <li>Javascript (ES6)</li>
   <li>ReactJS</li>
   <li>React Native</li>
   <li>Redux & Redux Toolkit</li>
   <li>HTML</li>
   <li>CSS</li>
- </ul>
- </p>
+
+</p>
 
  </div>
 
