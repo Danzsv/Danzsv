@@ -10,49 +10,45 @@
 
  💡 I enjoy being part of a teamwork because I can learn from my teammates and work together in order to achieve goals .
 
- ⚡ Fun fact :- Pets and Videogames are the reasons to live.
+ ⚡ Fun fact : Pets and Videogames are the reasons to live.
 
  🚀 I did the bootcamp of fullstack developer in HENRY, an intensive course of more than 700 hours where I learned various technologies such as:
 
-<div style="display: flex; flex-direction:row;">
-<div style="display: flex; flex-direction:row;">
-<p align="center" width="100%">
-
-  <li>NodeJS</li>
-  <li>Express Web Server</li>
-  <li>API's RESTful</li>
-  <li>Git</li>
-  <li>PostgreSQL</li>
-  <li>Sequelize</li>
-  <li>MongoDB & Mongoose</li>
-
-
-  <li>Javascript (ES6)</li>
-  <li>ReactJS</li>
-  <li>React Native</li>
-  <li>Redux & Redux Toolkit</li>
-  <li>HTML</li>
-  <li>CSS</li>
-
-</p>
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td>Javascript</td>
+    <td>TypeScript</td>
+ </tr>
+<tr>
+    <td>NodeJS</td>
+    <td>Express Web Server</td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>ReactJS</td>
+    <td>React Native</td>
+ </tr>
+<tr>
+    <td>Redux</td>
+    <td>Redux Toolkit</td>
+ </tr>
+<tr>
+    <td>HTML</td>
+    <td>CSS</td>
+ </tr>
+ <tr>
+    <td>API's RESTful</td>
+    <td>Git</td>
+ </tr>
+ <tr>
+    <td>PostgreSQL</td>
+    <td>Sequelize</td>
+ </tr>
+ <tr>
+    <td>MongoDB</td>
+    <td>Mongoose</td>
  </tr>
 </table>
 
- </div>
-
-<div style="display: flex; flex-direction:row;">
-
- </div>
-
-</div>
 <br>
 
 
