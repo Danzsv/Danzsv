@@ -16,6 +16,7 @@
 
 <div style="display: flex; flex-direction:row;">
 <div style="display: flex; flex-direction:row;">
+<p align="center" width="100%">
 <ul>  
   <li>NodeJS</li>
   <li>Express Web Server</li>
@@ -33,6 +34,8 @@
   <li>HTML</li>
   <li>CSS</li>
  </ul>
+ </p>
+
  </div>
 
 <div style="display: flex; flex-direction:row;">
