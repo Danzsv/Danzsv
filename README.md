@@ -28,7 +28,7 @@
  </div>
 
 <div>
-<ul align="right">
+<ul >
 <li>Javascript (ES6)</li>
   <li>ReactJS</li>
   <li>React Native</li>
