@@ -49,6 +49,12 @@
  </tr>
 </table>
 
+Here are some of my projects:
+<br>
+https://pokemon-liodandev.vercel.app
+<br>
+https://programando-ando-deploy.vercel.app
+
 <br>
 
 
